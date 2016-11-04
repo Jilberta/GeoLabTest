@@ -4,3 +4,7 @@
 if(Username == "Ana"){
   login();
 }
+
+if(Password == “123456789”){
+	Login Success
+}
